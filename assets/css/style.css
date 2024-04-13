@@ -706,7 +706,7 @@ responsive for larger tham 575px screen
 
 
   .works .grid-list{
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
   }
 
   .footer-top .container{
